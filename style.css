@@ -1,5 +1,5 @@
 footer {
-    background-color: black;
+    background-color: bisque;
     color: white;
     bottom:0;
     position:fixed;
@@ -11,4 +11,7 @@ footer p{
     height:2rem;
     margin-top: 0,5rem;
 }
-font-family: Bai Jamjuree;
+body {
+    background-color: bisque;
+    font-family: Bai Jamjuree;
+}
